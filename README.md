@@ -19,3 +19,21 @@ The Red-Black tree data structure provides a faster object
 retrieval mechanism while object skipping technique pre-
 vents the unnecessary objects to take part in intersection
 tests, thus accelerates the ray tracing.  The obtained results show that the proposed method provides superior results. 
+
+
+### Conclusion:
+
+- The conclusion obtained is with the help of RBTrees we are able to enforce a new model of Tracing that's more fast and reliable.
+- The help of Advanced Data Structure has improved the efficiency ot the process considerably and helped in benifiting us to use it more amazingly.
+
+### Steps Require to run :
+
+- Copy and Paste the below code in the terminal 
+
+- Copy the below code [x]
+
+     g++ rb.cpp rb
+     ./rb
+
+ 
+
