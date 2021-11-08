@@ -30,18 +30,22 @@ tests, thus accelerates the ray tracing.  The obtained results show that the pro
 
 - Copy and Paste the below code in the terminal 
 
--[x] Open the terminal in the same directory as file 
+- [x] Open the terminal in the same directory as file 
 
--[x] Copy the below code 
+- [x] Copy the below code 
 
          g++ rb.cpp rb
          ./rb
 
--[x] Enter the data as the number of simulations required:
+- [x] Enter the data as the number of simulations required:
 
         example 5
 
 
 
-### 
+### Why/How to use:
+
+- Albeit it's not useful for daily life it has very important role in the feild of Electronics and Communication.
+- This study decreases the research time to logarithmically 
+- This study is also helpful in letting us see the benifit of Advanced Data Structures use in real life.
 
