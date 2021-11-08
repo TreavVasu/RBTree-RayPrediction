@@ -30,10 +30,18 @@ tests, thus accelerates the ray tracing.  The obtained results show that the pro
 
 - Copy and Paste the below code in the terminal 
 
-- Copy the below code [x]
+-[x] Open the terminal in the same directory as file 
+
+-[x] Copy the below code 
 
          g++ rb.cpp rb
          ./rb
 
+-[x] Enter the data as the number of simulations required:
 
+        example 5
+
+
+
+### 
 
