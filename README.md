@@ -43,7 +43,7 @@ tests, thus accelerates the ray tracing.  The obtained results show that the pro
 
 
 
-### Why/How to use:
+### Why/How Useful:
 
 - Albeit it's not useful for daily life it has very important role in the feild of Electronics and Communication.
 - This study decreases the research time to logarithmically 
