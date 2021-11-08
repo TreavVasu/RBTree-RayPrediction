@@ -32,8 +32,8 @@ tests, thus accelerates the ray tracing.  The obtained results show that the pro
 
 - Copy the below code [x]
 
-     g++ rb.cpp rb
-     ./rb
+         g++ rb.cpp rb
+         ./rb
 
- 
+
 
